@@ -25,9 +25,10 @@ int main()
 	foodName2 = "Milk";
 	foodName3 = "Sugar";
 
-	std::cout << foodName1 << std::endl;
-	std::cout << foodName2 << std::endl;
-	std::cout << foodName3 << std::endl;
+	std::string::cout << foodName1 << std::endl;
+	std::string::cout << foodName2 << std::endl;
+	std::string::cout << foodName3 << std::endl;
+
 
 
 
